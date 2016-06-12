@@ -1,0 +1,9 @@
+{
+	"name": "coverd",
+	"authors": [
+		"jairov4"
+	],
+	"description": "Code coverage HTML reporter for language D listings",
+	"copyright": "Copyright © 2016, JairoAndres",
+	"license": "Mozilla"
+}
